@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karimi88vahid
 - 👀 I’m interested in frontend devepoler
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript & React basics
 - 💞️ I’m looking to collaborate on blockchain and web api services.
 - 📫 vahid214a@gmail.com or https://t.me/Thisisvahid
 
